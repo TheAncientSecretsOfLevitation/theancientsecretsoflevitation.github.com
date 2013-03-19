@@ -2,13 +2,11 @@ body {
   font-size: 14px;
   font-family: arial, sans-serif;
   color: #000;
-  background: url(../img/tasol-logo.jpg) center center no-repeat fixed #fff ;
+  background: url(../img/tasol-logo.jpg) center top no-repeat fixed #fff ;
 }
 
-.center { text-align: center }
-
-#links {
-
+.center {
+  text-align: center
 }
 
 #links a {
