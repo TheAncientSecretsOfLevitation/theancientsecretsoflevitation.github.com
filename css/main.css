@@ -1,4 +1,5 @@
 body {
+  margin: 0;
   font-size: 14px;
   font-family: 'Special Elite', cursive; /*'Metamorphous', cursive;*/
   background: #000
@@ -27,6 +28,40 @@ body {
   padding: 10px;
   margin: 0 20px;
 }
+
+
+@media (max-width: 979px) {
+
+  #links a {
+    padding: 5px;
+    margin: 0 10px;
+    font-size: 18px;
+  }
+
+  #bg {
+    background-size: cover;
+  }
+
+}
+ 
+@media (max-width: 767px) {
+
+  #links a {
+    padding: 5px;
+    margin: 0 5px;
+    font-size: 16px;
+  }
+}
+
+@media (max-width: 480px) {
+
+  #links a {
+    padding: 5px;
+    margin: 0;
+    font-size: 14px;
+  }
+}
+
 
 /* make keyframes that tell the start state and the end state of our object */
 @-webkit-keyframes fadeIn { from { opacity:0; } to { opacity:1; } }
