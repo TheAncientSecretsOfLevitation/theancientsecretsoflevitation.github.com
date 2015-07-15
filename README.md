@@ -1,4 +1,6 @@
-**_The Ancient Secrets Of Levitation_** is a stoner rock trio based in Madrid, Spain.
+# The Ancient Secrets of Levitation - Official Website
+
+**The Ancient Secrets of Levitation** is a stoner rock band based in Madrid, Spain.
 
 Facebook
 http://facebook.com/SecretsOfLevitation
